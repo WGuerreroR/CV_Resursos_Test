@@ -16,5 +16,5 @@ Para iniciar npm e instalar las dependecias se deben dar los siguientes comandos
 ### `npm install axios`  
 ### `npm install --save react-toastify`
 
-Para inciar el servidor
-### `nodemon server`
+Para inciar scripts de react
+### `npm start`
