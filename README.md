@@ -3,7 +3,7 @@ Para inciar el servicio de Node Js se debe ir al backend y ejecutar el siguiente
 ### `nodemon server`
 
 # Incio aplicacion React
-Para inciar npm e instalar las dependecias se deben dar los siguientes comandos
+Para iniciar npm e instalar las dependecias se deben dar los siguientes comandos
 
 ### `npm init -y`
 ### `npm install -g nodemon`
